@@ -39,6 +39,7 @@
 
 .col-3 {
   background: #fff;
+  margin-top: 2%;
 }
 
 [class*="col-"] {
